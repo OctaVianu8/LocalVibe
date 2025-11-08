@@ -1,2 +1,0 @@
-# LocalVibe
-Hackathon Event App
